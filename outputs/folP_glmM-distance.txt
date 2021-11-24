@@ -1,0 +1,4 @@
+sseqid	folP_send	folP_sstart	glmM_send	glmM_sstart	distance
+refseq|NC_002516.2|chromosome:5329920-5340772	5001	5852	3647	4984	17
+refseq|NZ_CP029660.1|chromosome:4166648-4177500	5001	5852	3647	4984	17
+refseq|NZ_CP037925.1|chromosome:5439144-5449996	5001	5852	3647	4984	17
